@@ -42,7 +42,7 @@ menu_bar.add_cascade (label='File',menu =file_menu)
 
 url = "https://unificater.com/#/"
 url1="http://qa.unificater.com/#/dashboard"
-url2= "https://www.gebiz.gov.sg/"
+url2= "https://www.XYZ.sg/"#client Url Removed 
 msg='Waited for 30 seconds to navigate to the desired page and closed the browser'
 browser_msg="console info:- \n Browser waiting time is only 60 Seconds. please select desired page to process your request ...\n Please Don't close the chrome Browser...."
 user_cancle_msg= ' '*10+"Process cancelled as per Your Request"+' '*10
